@@ -1,4 +1,4 @@
-# FusRoDahlila.github.io
+# Bethany Grentz (Williford)
 ## CSS155 Module4 Homework Assignment 2
 
 ### Welcome to my landing page! 
